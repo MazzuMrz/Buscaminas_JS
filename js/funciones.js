@@ -316,7 +316,7 @@ function resolverTablero(isOK){
     }
 
     if (isOK){
-        alert("¡¡¡Enhorabuena!!!");
+        alert("¡¡¡GANASTE!!!");
     }
 }
 
